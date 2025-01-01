@@ -23,7 +23,7 @@ const Projects: React.FC = (): React.ReactElement => {
         {
             title: 'User Interface for IZ4, the password bank',
             overview: `An User Interface, that stores an username and a password. Original version I made for a school job. Later I modificated it to something, that I use myself.`,
-            technologies: ['React', 'TypeScript', 'Context-API'],
+            technologies: ['React', 'TypeScript', 'Context-API', 'Material UI'],
             status: 'In production, however I will develop this every now and then.',
             demoLink: 'https://amorcitos.cyou/iz4/',
             githubLink: 'https://github.com/irtep/iz4-ui',
@@ -40,7 +40,7 @@ const Projects: React.FC = (): React.ReactElement => {
             title: 'Charred Axle Rig planner and tester',
             overview:
                 'Bit complext Charred Axle Rig planner and tester. Lots of Typescript React logic and everything works. An example of quite big non-server App, that gets the job done, mobile or laptop.',
-            technologies: ['React', 'TypeScript', 'Context-API'],
+            technologies: ['React', 'TypeScript', 'Context-API', 'Material UI'],
             status: 'Im production, I updated, when something to update.',
             demoLink: 'https://irtep.github.io/riggarage/',
             githubLink: 'https://github.com/irtep/riggers'

@@ -26,7 +26,10 @@ const Tech: React.FC = (): React.ReactElement => {
         {
             category: 'Frameworks/Libraries', items: [
                 { name: 'React', level: 'Expert', experience: 'since about 2016' },
-                { name: 'Node.js', level: 'Intermediate', experience: 'since about 2016' }
+                { name: 'Node.js', level: 'Intermediate', experience: 'since about 2016' },
+                { name: 'React Native', level: 'Some experience', experience: 'one course and few small apps' },
+                { name: 'Redux', level: 'Some experience', experience: 'few apps' },
+                { name: 'Material UI', level: 'Intermediate', experience: 'few apps' }
             ]
         },
         {
