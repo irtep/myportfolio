@@ -4,6 +4,7 @@ import Navigation from './components/Navigation';
 import AboutMe from './components/AboutMe';
 import Tech from './components/Tech';
 import Projects from './components/Projects';
+import Exp from './components/Exp';
 
 const App: React.FC = (): React.ReactElement => {
     const [page, setPage] = useState<string>('about me');
@@ -13,7 +14,7 @@ const App: React.FC = (): React.ReactElement => {
         'about me': <AboutMe isMobile={isMobile}/>,
         'highlighted projects': <Projects/>,
         'technical skills': <Tech/>,
-        'work exp': <div>exp</div>,
+        'work and courses': <Exp/>,
     };
 
     return (

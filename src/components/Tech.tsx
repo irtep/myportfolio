@@ -19,7 +19,8 @@ const Tech: React.FC = (): React.ReactElement => {
                 { name: 'CSS', level: 'Expert', experience: 'since about 2015' },
                 { name: 'JavaScript', level: 'Expert', experience: 'since about 2015' },
                 { name: 'Python', level: 'Some experience', experience: 'few courses and projects' },
-                { name: 'TypeScript', level: 'Expert', experience: 'about 3 years' }
+                { name: 'TypeScript', level: 'Expert', experience: 'about 3 years' },
+                { name: 'XSLT', level: 'Intermediate', experience: 'about 3 years work experience' }
             ]
         },
         {
