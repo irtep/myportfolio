@@ -34,7 +34,7 @@ const Projects: React.FC = (): React.ReactElement => {
                 'REST API, that also serves the User Interface of IZ4, the password bank. Also serves some other of my pages, that I use.',
             technologies: ['Node.js', 'MongoDB', 'Express', 'Prisma', 'Typescript'],
             status: 'Built RESTful APIs and implemented authentication with JWT. In production, but I will update this every now and then.',
-            githubLink: 'https://github.com/irtep/amorcitosserver/tree/main/server',
+            githubLink: 'https://github.com/irtep/iz4-rest',
         },
         {
             title: 'Charred Axle Rig planner and tester',

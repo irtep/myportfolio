@@ -10,11 +10,12 @@ const AboutMe: React.FC<AboutMeProps> = ({ isMobile }): React.ReactElement => {
         <>
             <div
                 style={{
-                    padding: 10,
+                    paddingTop: 10,
+                    paddingLeft: 200,
                     textAlign: 'justify',
                     marginLeft: 40,
                     marginRight: 40,
-                    color: 'rgb(24, 164, 85)'
+                    color: 'rgb(200, 200, 200)'
                 }}
             >
                 <p>

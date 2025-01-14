@@ -68,7 +68,7 @@ const Tech: React.FC = (): React.ReactElement => {
             case 'intermediate':
                 return 'yellow';
             case 'expert':
-                return 'green';
+                return 'rgb(0,180,0)';
             default:
                 return 'gray';
         }
@@ -80,7 +80,7 @@ const Tech: React.FC = (): React.ReactElement => {
                 padding: 10,
                 textAlign: 'justify',
                 margin: '0 40px',
-                color: 'rgb(24, 164, 85)',
+                color: 'rgb(200, 200, 200)',
             }}
         >
             <p>Some of the most relevant tech skills I have:</p>
