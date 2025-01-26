@@ -22,7 +22,7 @@ const Projects: React.FC = (): React.ReactElement => {
         },
         {
             title: 'User Interface for IZ4, the password bank',
-            overview: `An User Interface, that stores an username and a password. Original version I made for a school job. Later I modificated it to something, that I use myself.`,
+            overview: `An User Interface, that stores an username and a password. Original version I made for a school job. Later I modificated it to something, that I use myself. You can try it with username: test2, password: test2.`,
             technologies: ['React', 'TypeScript', 'Context-API', 'Material UI'],
             status: 'In production, however I will develop this every now and then.',
             demoLink: 'https://amorcitos.cyou/iz4/',
