@@ -43,7 +43,7 @@ const AboutMe: React.FC<AboutMeProps> = ({ isMobile }): React.ReactElement => {
                     But, everything ends at some point, and when the corporation decided to terminate one of our biggest brand in Finland, I was given some options, and from those I felt that the Goodbye, with a Golden Handshake was the most fitting for me.
                 </p>
                 <p>
-                    So, now I am pursuing my dream to work as a Developer.
+                    When you read this, I might be unemployed. So, if you have a job for me, let me know.
                 </p>
                 <p>
                     Feel free to contact me:
